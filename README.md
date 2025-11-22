@@ -31,7 +31,7 @@
 - 📚 Currently learning: **Deep Learning** (NLP, CNN, RNN, ANN, and more!)
 - 🤝 Open to collaborating on: Machine Learning, Deep Learning, and AI projects.
 - 💬 Ask me about: Python, ML, DL, NLP, Data Science, and AI.
-- 📫 How to reach me: [abdullahazizdostugir@gmail.com](mailto:abdullahazizdostugir@gmail.com)
+- 📫 How to reach me: [dostugir2002@gmail.com](mailto:dostugir2002@gmail.com)
 - ⚡ Fun fact: I love turning data into stories and automating boring stuff!
 
 ---
@@ -84,7 +84,7 @@
   <a href="https://twitter.com/dostugir">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:abdullahazizdostugir@gmail.com">
+  <a href="mailto:dostugir2002@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
