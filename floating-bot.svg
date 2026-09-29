@@ -1,0 +1,103 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float {
+        0% { transform: translate(0, 0); }
+        25% { transform: translate(150px, -100px); }
+        50% { transform: translate(100px, -150px); }
+        75% { transform: translate(-100px, -80px); }
+        100% { transform: translate(0, 0); }
+      }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.7; }
+      }
+      
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 5px #36BCF7); }
+        50% { filter: drop-shadow(0 0 15px #36BCF7); }
+      }
+      
+      .bot-container {
+        animation: float 8s infinite ease-in-out;
+        transform-origin: center;
+      }
+      
+      .bot-body {
+        animation: glow 3s infinite ease-in-out;
+      }
+      
+      .bot-eye {
+        animation: pulse 2s infinite ease-in-out;
+      }
+      
+      .text-label {
+        font-family: 'Fira Code', monospace;
+        font-size: 14px;
+        fill: #36BCF7;
+        font-weight: bold;
+        text-anchor: middle;
+      }
+    </style>
+    
+    <!-- Bot body gradient -->
+    <radialGradient id="botGlow" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#36BCF7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0F3A66;stop-opacity:0.8" />
+    </radialGradient>
+    
+    <radialGradient id="eyeGlow" cx="30%" cy="30%">
+      <stop offset="0%" style="stop-color:#00FF00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#006600;stop-opacity:0.9" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Main floating bot -->
+  <g class="bot-container">
+    <!-- Bot head (large circle) -->
+    <circle class="bot-body" cx="400" cy="150" r="45" fill="url(#botGlow)" stroke="#36BCF7" stroke-width="2"/>
+    
+    <!-- Bot body (rectangle) -->
+    <rect class="bot-body" x="365" y="195" width="70" height="60" rx="8" fill="url(#botGlow)" stroke="#36BCF7" stroke-width="2"/>
+    
+    <!-- Bot antenna -->
+    <line x1="400" y1="105" x2="400" y2="60" stroke="#36BCF7" stroke-width="3"/>
+    <circle cx="400" cy="55" r="8" fill="#00FF00" stroke="#36BCF7" stroke-width="1"/>
+    
+    <!-- Left eye -->
+    <circle class="bot-eye" cx="385" cy="135" r="8" fill="url(#eyeGlow)" stroke="#00FF00" stroke-width="1"/>
+    <circle cx="387" cy="133" r="3" fill="#FFFFFF" opacity="0.8"/>
+    
+    <!-- Right eye -->
+    <circle class="bot-eye" cx="415" cy="135" r="8" fill="url(#eyeGlow)" stroke="#00FF00" stroke-width="1"/>
+    <circle cx="417" cy="133" r="3" fill="#FFFFFF" opacity="0.8"/>
+    
+    <!-- Mouth (smile) -->
+    <path d="M 390 150 Q 400 160 410 150" stroke="#36BCF7" stroke-width="2" fill="none" stroke-linecap="round"/>
+    
+    <!-- Left arm -->
+    <line x1="365" y1="215" x2="330" y2="210" stroke="#36BCF7" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="328" cy="210" r="5" fill="#36BCF7"/>
+    
+    <!-- Right arm -->
+    <line x1="435" y1="215" x2="470" y2="210" stroke="#36BCF7" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="472" cy="210" r="5" fill="#36BCF7"/>
+    
+    <!-- Left leg -->
+    <line x1="375" y1="255" x2="360" y2="290" stroke="#36BCF7" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="360" cy="292" r="5" fill="#36BCF7"/>
+    
+    <!-- Right leg -->
+    <line x1="425" y1="255" x2="440" y2="290" stroke="#36BCF7" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="440" cy="292" r="5" fill="#36BCF7"/>
+    
+    <!-- Status light on chest -->
+    <circle cx="400" cy="220" r="6" fill="#00FF00" opacity="0.8"/>
+    <circle cx="400" cy="220" r="4" fill="#FFFFFF" opacity="0.6"/>
+  </g>
+  
+  <!-- Status text -->
+  <text class="text-label" x="400" y="380">🤖 BOT ACTIVE</text>
+  <text class="text-label" x="400" y="410" style="font-size: 12px; fill: #8B5CF6;">Floating around your README...</text>
+</svg>
