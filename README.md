@@ -1,98 +1,82 @@
-<!-- Predicting Game: "Guess the Number" (Auto-Playing Demo) -->
+<div align="center">
 
-<!--
-  This section features a simple "Guess the Number" game simulation using JavaScript.
-  The game auto-plays, showing predictions and results, giving a cool, dynamic vision to the README.
-  Note: This will only work on markdown renderers that support HTML+JS (e.g., GitHub Profile README preview will NOT run JS, but some third-party viewers will).
--->
+# 🤖 Hi, I'm Abdullah Aziz Dostugir
 
-<div align="center" style="padding: 32px 0; border-radius: 24px; box-shadow: 0 4px 24px #222; background: #181c24;">
+### AI Engineer in Progress · Machine Learning · Deep Learning · Intelligent Systems
 
-<h1 align="center" style="color: #36BCF7; text-shadow: 0 2px 8px #222;">
-  <span>
-    🤖 Hi, I'm Abdullah Aziz Dostugir
-  </span>
-</h1>
+<!-- Animated AI bot window. GitHub README does not execute JavaScript, so the animation uses a hosted SVG image. -->
+<a href="https://github.com/Dostugir">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=%5BAI+BOT%5D+Initializing+neural+systems...;%5BAI+BOT%5D+Training+deep+learning+models...;%5BAI+BOT%5D+Analyzing+data+patterns...;%5BAI+BOT%5D+Building+intelligent+solutions...;%5BAI+BOT%5D+System+online+%7C+Ready+to+innovate!" alt="AI bot status" />
+</a>
 
+<table>
+<tr>
+<td width="160" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robot/robot-original.svg" width="110" alt="AI robot" />
+  <br />🤖 <b>AI BOT ONLINE</b>
+</td>
+<td align="left">
+  <b>╭─ AI Assistant Console ─╮</b><br />
+  <code>│ Status: ACTIVE</code><br />
+  <code>│ Mission: Turn data into intelligence</code><br />
+  <code>│ Focus: NLP · Computer Vision · LLMs</code><br />
+  <code>│ Mode: Always learning...</code><br />
+  <b>╰────────────────────────╯</b>
+</td>
+</tr>
+</table>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=dostugir&color=36BCF7&style=for-the-badge)](https://github.com/Dostugir)
 
-<div id="game-container" style="margin: 0 auto; max-width: 420px; background: #222c36; border-radius: 16px; padding: 24px; color: #fff; font-family: 'Fira Code', monospace; font-size: 1.1em; box-shadow: 0 2px 12px #111;">
-  <div id="game-log" style="min-height: 120px;"></div>
-  <div id="game-status" style="margin-top: 12px; font-weight: bold;"></div>
 </div>
-
-
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 I am a **Machine Learning Engineer** passionate about building impactful AI solutions.
-- 📚 Currently learning: **Deep Learning** (NLP, CNN, RNN, ANN, and more!)
-- 🤝 Open to collaborating on: Machine Learning, Deep Learning, and AI projects.
-- 💬 Ask me about: Python, ML, DL, NLP, Data Science, and AI.
-- 📫 How to reach me: [dostugir2002@gmail.com](mailto:dostugir2002@gmail.com)
-- ⚡ Fun fact: I love turning data into stories and automating boring stuff!
+- 👨‍💻 I am an aspiring **AI Engineer** passionate about building useful intelligent systems.
+- 🧠 Learning and practicing **Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs**.
+- 🛠️ I enjoy turning messy data into reliable models and automating repetitive work.
+- 🤝 Open to collaborating on AI, ML, research, and open-source projects.
+- 💬 Ask me about Python, ML, DL, NLP, data science, and AI.
+- 📫 Reach me at [dostugir2002@gmail.com](mailto:dostugir2002@gmail.com)
 
----
-
-## 🛠️ Languages, Tools & Machine Learning
+## 🧠 AI Engineering Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,docker,git,github&theme=dark" alt="AI engineering tools" />
 </p>
-
----
-
-## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dostugir&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dostugir&theme=radical" height="180"/>
+  <img src="https://img.shields.io/badge/NLP-36BCF7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-8B5CF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-10B981?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-F59E0B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-EF4444?style=for-the-badge&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dostugir&theme=react-dark" width="90%"/>
-</p>
-
----
 
 ## 📂 Featured Projects
 
-- [**Awesome NLP Toolkit**](https://github.com/dostugir/awesome-nlp-toolkit)  
-  _A collection of powerful NLP tools and models for text analysis and understanding._
+- [**Awesome NLP Toolkit**](https://github.com/dostugir/awesome-nlp-toolkit) — NLP tools and models for text analysis and understanding.
+- [**DeepVision**](https://github.com/dostugir/deepvision) — Deep-learning image classification using CNNs.
 
-- [**DeepVision**](https://github.com/dostugir/deepvision)  
-  _A deep learning project focused on image classification using CNNs._
-
-<!-- Add more projects as needed -->
-
----
-
-## 🌐 Connect with Me
+## 📈 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullahazizdostugir">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/dostugir">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:dostugir2002@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dostugir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dostugir&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
 </p>
 
----
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect+and+create+something+amazing!"/>
+  <a href="https://linkedin.com/in/abdullahazizdostugir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/dostugir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:dostugir2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+that+matters.;Learning.+Training.+Deploying.;Let's+create+the+future+with+AI!" alt="AI engineer tagline" />
 </div>
+
+> **Note:** GitHub sanitizes JavaScript and does not allow a truly floating, fixed-position window in profile READMEs. The bot console above is therefore implemented with GitHub-safe animated SVGs and remains visible in the README across GitHub devices.
