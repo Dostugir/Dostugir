@@ -135,23 +135,6 @@ AI/ML Workspace
 
 <br>
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dostugir&show_icons=true&theme=github_dark&hide_border=true&card_width=500" alt="GitHub Stats" />
-
-<br>
-
-### 🎓 Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dostugir&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-</div>
-
-<hr>
-
-## 🤝 Collaborators & Contributors
-
-<div align="center">
 
 ### 👥 Join the Journey
 
