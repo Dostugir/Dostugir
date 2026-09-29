@@ -1,82 +1,70 @@
 <div align="center">
 
-# 🤖 Hi, I'm Abdullah Aziz Dostugir
+# Abdullah Aziz Dostugir
 
-### AI Engineer in Progress · Machine Learning · Deep Learning · Intelligent Systems
+### Aspiring AI Engineer | Machine Learning | Deep Learning | Intelligent Systems
 
-<!-- Animated AI bot window. GitHub README does not execute JavaScript, so the animation uses a hosted SVG image. -->
-<a href="https://github.com/Dostugir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=%5BAI+BOT%5D+Initializing+neural+systems...;%5BAI+BOT%5D+Training+deep+learning+models...;%5BAI+BOT%5D+Analyzing+data+patterns...;%5BAI+BOT%5D+Building+intelligent+solutions...;%5BAI+BOT%5D+System+online+%7C+Ready+to+innovate!" alt="AI bot status" />
-</a>
-
-<table>
-<tr>
-<td width="160" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robot/robot-original.svg" width="110" alt="AI robot" />
-  <br />🤖 <b>AI BOT ONLINE</b>
-</td>
-<td align="left">
-  <b>╭─ AI Assistant Console ─╮</b><br />
-  <code>│ Status: ACTIVE</code><br />
-  <code>│ Mission: Turn data into intelligence</code><br />
-  <code>│ Focus: NLP · Computer Vision · LLMs</code><br />
-  <code>│ Mode: Always learning...</code><br />
-  <b>╰────────────────────────╯</b>
-</td>
-</tr>
-</table>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=dostugir&color=36BCF7&style=for-the-badge)](https://github.com/Dostugir)
+<p>
+  <a href="mailto:dostugir2002@gmail.com"><img src="https://img.shields.io/badge/Email-dostugir2002%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abdullahazizdostugir"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Aziz%20Dostugir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Dostugir"><img src="https://img.shields.io/github/followers/Dostugir?label=Follow&style=flat-square&logo=github" alt="GitHub followers" /></a>
+</p>
 
 </div>
 
----
+## About
 
-## 🚀 About Me
+I am an aspiring **AI Engineer** focused on building practical, reliable, and well-engineered intelligent systems. I enjoy working across the machine learning lifecycle—from exploring and preparing data to training models and delivering useful applications.
 
-- 👨‍💻 I am an aspiring **AI Engineer** passionate about building useful intelligent systems.
-- 🧠 Learning and practicing **Machine Learning, Deep Learning, NLP, Computer Vision, and LLMs**.
-- 🛠️ I enjoy turning messy data into reliable models and automating repetitive work.
-- 🤝 Open to collaborating on AI, ML, research, and open-source projects.
-- 💬 Ask me about Python, ML, DL, NLP, data science, and AI.
-- 📫 Reach me at [dostugir2002@gmail.com](mailto:dostugir2002@gmail.com)
+- Currently developing my skills in **machine learning, deep learning, NLP, computer vision, and LLMs**.
+- Interested in applied AI, automation, experimentation, and open-source collaboration.
+- I value readable code, reproducible workflows, and solutions that create measurable impact.
+- Open to collaborating on AI, ML, research, and software projects.
 
-## 🧠 AI Engineering Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,docker,git,github&theme=dark" alt="AI engineering tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP-36BCF7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-10B981?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-F59E0B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-EF4444?style=for-the-badge&logoColor=white" />
-</p>
-
-## 📂 Featured Projects
-
-- [**Awesome NLP Toolkit**](https://github.com/dostugir/awesome-nlp-toolkit) — NLP tools and models for text analysis and understanding.
-- [**DeepVision**](https://github.com/dostugir/deepvision) — Deep-learning image classification using CNNs.
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dostugir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dostugir&theme=tokyonight&hide_border=true" height="180" alt="GitHub streak" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/abdullahazizdostugir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/dostugir"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:dostugir2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## Technical Focus
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+that+matters.;Learning.+Training.+Deploying.;Let's+create+the+future+with+AI!" alt="AI engineer tagline" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,docker,git,github&theme=light" alt="Python, TensorFlow, PyTorch, scikit-learn, pandas, NumPy, OpenCV, Docker, Git, and GitHub" />
+
 </div>
 
-> **Note:** GitHub sanitizes JavaScript and does not allow a truly floating, fixed-position window in profile READMEs. The bot console above is therefore implemented with GitHub-safe animated SVGs and remains visible in the README across GitHub devices.
+| Area | Focus |
+| --- | --- |
+| Machine Learning | Model development, evaluation, feature engineering, and data analysis |
+| Deep Learning | Neural networks, computer vision, and representation learning |
+| Natural Language Processing | Text analysis, language models, and intelligent text applications |
+| Engineering | Python development, automation, Docker, Git, and reproducible workflows |
+
+## Selected Projects
+
+- [**Awesome NLP Toolkit**](https://github.com/Dostugir/awesome-nlp-toolkit) — Tools and models for text analysis and natural language understanding.
+- [**DeepVision**](https://github.com/Dostugir/deepvision) — Deep-learning image classification using convolutional neural networks.
+
+## What I Am Learning
+
+- Designing and deploying production-ready ML systems
+- Improving model evaluation, reliability, and interpretability
+- Building useful applications with modern LLMs
+- Strengthening software engineering and MLOps practices
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dostugir&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dostugir&hide_border=true&theme=default" height="165" alt="GitHub contribution streak" />
+</div>
+
+## Connect
+
+If you are working on an interesting AI, machine learning, or open-source project, feel free to reach out.
+
+- **Email:** [dostugir2002@gmail.com](mailto:dostugir2002@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abdullahazizdostugir](https://www.linkedin.com/in/abdullahazizdostugir)
+- **GitHub:** [github.com/Dostugir](https://github.com/Dostugir)
+
+<div align="center">
+
+_Always learning. Always building._
+
+</div>
