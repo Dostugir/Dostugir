@@ -7,6 +7,7 @@
 <p>
   <a href="mailto:dostugir2002@gmail.com"><img src="https://img.shields.io/badge/Email-dostugir2002%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/abdullahazizdostugir"><img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Aziz%20Dostugir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Dostugir"><img src="https://img.shields.io/badge/GitHub-Dostugir-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/Dostugir"><img src="https://img.shields.io/github/followers/Dostugir?label=Follow&style=flat-square&logo=github" alt="GitHub followers" /></a>
 </p>
 
@@ -14,7 +15,7 @@
 
 ## About
 
-I am an aspiring **AI Engineer** focused on building practical, reliable, and well-engineered intelligent systems. I enjoy working across the machine learning lifecycle—from exploring and preparing data to training models and delivering useful applications.
+I am an aspiring **AI Engineer** focused on building practical, reliable, and well-engineered intelligent systems. I enjoy working across the machine learning lifecycle—from exploring and preparing data to building and evaluating models.
 
 - Currently developing my skills in **machine learning, deep learning, NLP, computer vision, and LLMs**.
 - Interested in applied AI, automation, experimentation, and open-source collaboration.
@@ -25,7 +26,7 @@ I am an aspiring **AI Engineer** focused on building practical, reliable, and we
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,docker,git,github&theme=light" alt="Python, TensorFlow, PyTorch, scikit-learn, pandas, NumPy, OpenCV, Docker, Git, and GitHub" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,docker,git,github&theme=light" alt="Python, TensorFlow, PyTorch, scikit-learn, pandas, NumPy, OpenCV, Docker, Git, GitHub" />
 
 </div>
 
@@ -51,8 +52,7 @@ I am an aspiring **AI Engineer** focused on building practical, reliable, and we
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dostugir&show_icons=true&hide_border=true&theme=default" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dostugir&hide_border=true&theme=default" height="165" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Dostugir&hide_border=true&theme=default" height="165" alt="GitHub contribution streak" />
 </div>
 
 ## Connect
