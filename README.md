@@ -138,7 +138,6 @@ AI/ML Workspace
 
 ### 👥 Join the Journey
 
-<img src="https://contrib.rocks/image?repo=Dostugir/Dostugir" alt="Contributors" width="100%" />
 
 *Made with [contrib.rocks](https://contrib.rocks)*
 
