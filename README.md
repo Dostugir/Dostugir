@@ -63,24 +63,6 @@ I'm focused on the **complete machine learning lifecycle**—from data explorati
 
 <hr>
 
-## 🏗️ System Architecture & Data Flow
-
-```mermaid
-flowchart LR
-    A[Data] --> B[Clean & Prepare]
-    B --> C[Train & Tune]
-    C --> D[Evaluate]
-    D --> E[Deploy]
-    E --> F[Monitor]
-    F --> A
-```
-
-### 🔄 ML Workflow Cycle
-
-Data → Feature Engineering → Model Training → Evaluation → Deployment → Monitoring
-
-<hr>
-
 ## 📂 Project Architecture
 
 - Data & Feature Engineering
